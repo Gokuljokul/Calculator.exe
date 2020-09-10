@@ -9,6 +9,7 @@ pip install pyinstaller
 Go to your program’s directory and run:
 
 pyinstaller yourprogram.py
+pyinstaller.exe --onefile yourprogram.py
 
 This will generate the bundle in a subdirectory called dist.
 For a more detailed walkthrough, see the manual.
